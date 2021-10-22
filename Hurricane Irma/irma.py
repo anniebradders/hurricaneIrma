@@ -6,8 +6,6 @@ def irma_setup():
        and coordinate system set to match latitude and longitude.
 
        :return: a tuple containing the Turtle and the Screen
-
-       DO NOT CHANGE THE CODE IN THIS FUNCTION!
     """
     import tkinter
     turtle.setup(965, 600)  # set size of window to size of map
